@@ -1,5 +1,5 @@
 
-#A simple python function that takes two arguments and adds them
+#A simple python function that takes two arguments and adds them and returns the result
 
 
 def simpleArraySum(a,b):
